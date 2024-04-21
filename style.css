@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+
+
+ .justify-content{
+    justify-content: center;
+
+    }
+ .align-text{
+    align-items: center;
+
+    }
+ .flex{
+    display: flex;
+
+    }
+ .flex-col{
+    flex-direction: column;
+
+    }
+ .justify-between{
+    justify-content: space-between;
+         }
+
+.flex li{
+    margin: 0 12px;
+    list-style: none;
+         }
+.padding-left li{
+   margin-left: 2rem;
+   margin-right: 2rem;
+ }
+ .max-width2{
+   width: 60%;
+ }
+ .max-width1{
+   width: 40%;
+ }
+ 
+ .height{
+   max-height: 50vh;
+ }
+
+ .font{
+   max-height: 50vh;
+ }
+
+.padding-left{
+   padding-left: 1rem;
+ }
+
+ .dimensions{
+   height: 450px;
+   width: 200px;
+ }
+ .dimensions2{
+   height: 500px;
+   width: 500px;
+ }
+
+
+ .text-align{
+  text-align: center;
+ }
+.font-family{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+ }
+ .hover{
+cursor:pointer; 
+}
+
+.bg-color-car{
+background-color: lightslategray; 
+}
+.bg-color-bike{
+background-color: mediumaquamarine; 
+}
